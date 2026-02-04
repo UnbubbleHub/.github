@@ -4,6 +4,9 @@ The aim of this initiative is to provide a space for researcher and engineer to 
 
 In order to do so, we believe that information integrity tools should be open, transparent, and accessible to everyone.
 
+> [!TIP]
+> See what we're up to and join us in the [Discussions tab](https://github.com/orgs/UnbubbleHub/discussions)!
+
 # Motivation
 
 We are witnessing a collision between two powerful forces shaping public discourse: social media platforms and governments.
@@ -119,3 +122,6 @@ Each project has its maintainer who is responsible for the project.
 @carlomartinucci is the Benevolent Dictator in case controversies arise.
 
 Every contribution is welcomed, as long as it is respectful.
+
+> [!TIP]
+> See what we're up to and join us in the [Discussions tab](https://github.com/orgs/UnbubbleHub/discussions)!
