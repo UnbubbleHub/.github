@@ -39,7 +39,7 @@ When reading an article, can we identify framing patterns, rhetorical techniques
 
 ## Information extraction
 
-When reading an article, can we extract claims, facts, and key information from unstructured text and multimedia? What are the best schema or theories that capture and give structure to unstructured media?
+When reading an article, can we extract claims, facts, and key information from unstructured text and multimedia? Can we filter out opinions and ideological framing? What are the best schema or theories that capture and give structure to unstructured media?
 
 ## Fact and data tracking across sources
 
@@ -59,7 +59,7 @@ Most current algorithms optimize for engagement, which favours outrage. Can we d
 
 ## Cognitive Interface Design
 
-How do visual cues, timing, and phrasing affect the reception of corrective information? What UI patterns encourage "slow thinking" (System 2) over "fast thinking" (System 1)? What UX is best do help users do not feel defensive towards point of views they might not agree with?
+How do visual cues, timing, and phrasing affect the reception of corrective information? What UI patterns encourage "slow thinking" over "fast thinking"? What UX is best do help users do not feel defensive towards point of views they might not agree with?
 
 ## Genealogy and Provenance Tracking
 
