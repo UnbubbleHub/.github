@@ -11,7 +11,7 @@ In order to do so, we believe that information integrity tools should be open, t
 
 We are witnessing a collision between two powerful forces shaping public discourse: social media platforms and governments.
 
-Social media platforms have become central infrastructure for public discourse. Their recommendation algorithms, designed to maximize engagement, have demonstrably contributed to polarization and the spread of misinformation. The underlying mechanism is well-documented: algorithms that prioritize engagement metrics (likes, shares, comments) systematically favor content that triggers strong emotional reactions—including outrage, fear, and hostility. This is not a bug but a feature of advertising-driven business models.
+Social media platforms have become central infrastructure for public discourse. Their recommendation algorithms, designed to maximize engagement, have demonstrably contributed to polarization and the spread of disinformation. The underlying mechanism is well-documented: algorithms that prioritize engagement metrics (likes, shares, comments) systematically favor content that triggers strong emotional reactions—including outrage, fear, and hostility. This is not a bug but a feature of advertising-driven business models.
 
 The platforms themselves are opaque. Users cannot see why certain content appears in their feeds. Researchers struggle to study algorithmic effects without platform cooperation. Civil society cannot audit systems that shape billions of people's understanding of the world.
 
@@ -67,7 +67,7 @@ Can we trace the mutation of a narrative backward through time and across platfo
 
 ## Open Datasets
 
-The creation of open, high-quality, privacy-preserving datasets of labeled misinformation, narrative structures, and propaganda techniques.
+The creation of open, high-quality, privacy-preserving datasets of labeled disinformation, narrative structures, and propaganda techniques.
 
 ## Adversarial Testing
 
