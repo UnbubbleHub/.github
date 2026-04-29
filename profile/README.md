@@ -1,6 +1,6 @@
 # Unbubble Hub - Open Research
 
-The aim of this initiative is to provide a space for researcher and engineer to come together and collaborate in developing tools to fight social polarization. We want to help people form their own judgment not by promoting "correct" opinions, but by fostering meaningful, conscious disagreement, encouraging a plurality of perspectives.
+Unbubble Hub is a space where researchers and engineers come together and collaborate in developing tools to fight social polarization. We want to help people form their own judgment not by promoting "correct" opinions, but by fostering meaningful, conscious disagreement, encouraging a plurality of perspectives.
 
 In order to do so, we believe that information integrity tools should be open, transparent, and accessible to everyone.
 
